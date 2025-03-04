@@ -1,4 +1,4 @@
-# AirportDatasAnalysis
+# AirportDataAnalysis
 
 ## Overview
 This project processes and analyzes airport data from a CSV file. It filters airport locations based on specific latitude and longitude ranges, extracts key details, and stores them in separate text files. Additionally, the project visualizes airport locations using Matplotlib and Basemap.
